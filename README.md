@@ -1,3 +1,11 @@
 # SRE-Challenge: Building containers with trusted source images.
 
-The Script is located at location: https://github.com/shubhadapaithankar/SRE-Challenge/blob/main/script.py
+1. The Script is located at location: https://github.com/shubhadapaithankar/SRE-Challenge/blob/main/script.py
+2. Source File located at: https://gist.githubusercontent.com/jmelis/c60e61a893248244dc4fa12b946585c4/raw/25d39f67f2405330a6314cad64fac423a171162c/sources.txt
+
+To Run a Script perform the following steps:
+1. run the scrip using : python3 script.py
+2. Give the source file path as mention above.
+3. Output:
+
+<img width="1130" alt="Screen Shot 2022-10-26 at 11 15 52 AM" src="https://user-images.githubusercontent.com/99461999/198104755-6cae4af3-727d-4cc5-8f3e-618184963417.png">
