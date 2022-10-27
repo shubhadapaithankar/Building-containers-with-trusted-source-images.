@@ -10,3 +10,13 @@ To Run a Script perform the following steps:
 
 
 <img width="1130" alt="Screen Shot 2022-10-26 at 11 15 52 AM" src="https://user-images.githubusercontent.com/99461999/198104755-6cae4af3-727d-4cc5-8f3e-618184963417.png">
+
+
+## Bonus work
+I have installed minikube on Ubuntu AWS EC2 VM.
+### Installation 
+
+<img width="1305" alt="Screen Shot 2022-10-27 at 12 40 26 PM" src="https://user-images.githubusercontent.com/99461999/198384135-4cf42c0c-5407-47d7-aa0f-39a763bcfb1b.png">
+
+### Interact with your cluster
+<img width="665" alt="Screen Shot 2022-10-27 at 12 41 59 PM" src="https://user-images.githubusercontent.com/99461999/198384138-1b50855f-bdda-41e1-80de-72d8c1cb0b52.png">
