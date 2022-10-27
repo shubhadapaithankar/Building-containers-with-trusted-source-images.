@@ -20,3 +20,5 @@ I have installed minikube on Ubuntu AWS EC2 VM.
 
 ### Interact with your cluster
 <img width="665" alt="Screen Shot 2022-10-27 at 12 41 59 PM" src="https://user-images.githubusercontent.com/99461999/198384138-1b50855f-bdda-41e1-80de-72d8c1cb0b52.png">
+
+### Deploy applications:
