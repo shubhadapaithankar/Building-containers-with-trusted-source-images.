@@ -22,7 +22,8 @@ To Run a Script perform the following steps:
 3. Output: (json response)
 
 
-<img width="1130" alt="Screen Shot 2022-10-26 at 11 15 52 AM" src="https://user-images.githubusercontent.com/99461999/198104755-6cae4af3-727d-4cc5-8f3e-618184963417.png">
+<img width="1131" alt="Screen Shot 2022-10-28 at 2 02 28 PM" src="https://user-images.githubusercontent.com/99461999/198731998-3f3ac7fb-5e73-42de-af6d-58a56ef12e47.png">
+
 
 
 ## Bonus work
