@@ -1,12 +1,25 @@
 # SRE-Challenge: Building containers with trusted source images.
 
-1. The Script is located at location: https://github.com/shubhadapaithankar/SRE-Challenge/blob/main/script.py
-2. Source File located at: https://gist.githubusercontent.com/jmelis/c60e61a893248244dc4fa12b946585c4/raw/25d39f67f2405330a6314cad64fac423a171162c/sources.txt
+### Important Libraries:
+
+1. git : GitPython is a python library used to interact with git repositories. It is a module in python used to access our git repositories. It provides abstractions of git objects for easy access of repository data, and additionally allows you to access the git repository more directly using pure python implementation.
+
+2. os: The OS module in Python provides functions for creating and removing a directory (folder), fetching its contents, changing and identifying the current directory, etc.
+
+3. json: JSON module that will help converting the datastructures to JSON strings. Use the import function to import the JSON module. The JSON module is mainly used to convert the python dictionary above into a JSON string that can be written into a file.
+
+4. urllib.request: The urllib. request module defines functions and classes which help in opening URLs (mostly HTTP) in a complex world — basic and digest authentication, redirections, cookies and more.Python module for fetching URLs (Uniform Resource Locators). It offers a very simple interface, in the form of the urlopen function. This is capable of fetching URLs using a variety of different protocols.
+
+### The Script is located at location: 
+https://github.com/shubhadapaithankar/SRE-Challenge/blob/main/script.py
+### Source File located at(input url): 
+
+https://gist.githubusercontent.com/jmelis/c60e61a893248244dc4fa12b946585c4/raw/25d39f67f2405330a6314cad64fac423a171162c/sources.txt
 
 To Run a Script perform the following steps:
 1. run the scrip using : python3 script.py
-2. Give the source file path as mention above.
-3. Output:
+2. Give the source file path as mention above(input url).
+3. Output: (json response)
 
 
 <img width="1130" alt="Screen Shot 2022-10-26 at 11 15 52 AM" src="https://user-images.githubusercontent.com/99461999/198104755-6cae4af3-727d-4cc5-8f3e-618184963417.png">
