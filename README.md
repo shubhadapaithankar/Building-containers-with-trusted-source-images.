@@ -1,4 +1,4 @@
-Building containers with trusted source images.
+# Building containers with trusted source images.
 
 Use Python scripts to automate the creation of a Dockerfile that specifies a trusted base image and any additional dependencies needed by your application.
 
