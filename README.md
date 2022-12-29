@@ -1,5 +1,12 @@
-# SRE-Challenge: Building containers with trusted source images.
+Building containers with trusted source images.
 
+Use Python scripts to automate the creation of a Dockerfile that specifies a trusted base image and any additional dependencies needed by your application.
+
+Build and push the Docker image to a container registry using the docker build and docker push commands.
+
+Deploy the container to a Kubernetes cluster using the kubectl command-line tool or a configuration file written in YAML.
+
+By following these steps, you can build and deploy containers using trusted source images in Kubernetes, using Python scripts to automate the process.
 ### Important Libraries:
 
 1. git : GitPython is a python library used to interact with git repositories. It is a module in python used to access our git repositories. It provides abstractions of git objects for easy access of repository data, and additionally allows you to access the git repository more directly using pure python implementation.
